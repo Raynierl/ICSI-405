@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="edu.albany.sandwichshop" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="806" width="922" x="569" y="11"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="edu.albany.sandwichshop.people" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/people" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="697" width="292" x="578" y="53"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="edu.albany.sandwichshop.menu" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/menu" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="683" width="448" x="901" y="85"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="edu.albany.sandwichshop.EmeraldCityDriver" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/EmeraldCityDriver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1386" y="433"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.albany.sandwichshop.menu.BLT" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/menu/BLT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1003" y="457"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.albany.sandwichshop.menu.ChickenSalad" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/menu/ChickenSalad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1014" y="587"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.albany.sandwichshop.menu.Sandwich" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/menu/Sandwich.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1011" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.albany.sandwichshop.menu.RoastBeefSandwich" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/menu/RoastBeefSandwich.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1231" y="697"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.albany.sandwichshop.people.SandwichMaker" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/people/SandwichMaker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="719" y="198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="edu.albany.sandwichshop.people.Customer" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/people/Customer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="721" y="404"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="edu.albany.sandwichshop.people.Cashier" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/sandwichshop/people/Cashier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1303" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="12" language="java" name="edu.albany.cruise" project="ICSI-405" file="/ICSI-405/src/edu/albany/cruise" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="183" width="147" x="41" y="39"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="edu.albany.cargo" project="ICSI-405" file="/ICSI-405/src/edu/albany/cargo" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="787" width="351" x="202" y="6"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="edu.albany.cruise.CruiseShip" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/cruise/CruiseShip.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="183" width="187" x="212" y="585"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.albany.cruise.ShipDriver" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/cruise/ShipDriver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="116" y="151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="edu.albany.cruise.Ship" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/cruise/Ship.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="236" width="146" x="233" y="76"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="edu.albany.cargo.CargoShip" project="ICSI-405" 
+    file="/ICSI-405/src/edu/albany/cargo/CargoShip.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="172" width="184" x="341" y="377"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="20">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="21" name="Tray"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="25">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="26" name="Order"/>      
+      <multiplicity id="27" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="28">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="29" name="custOrder"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
